@@ -1,5 +1,5 @@
 {
-  "AntiCheatDisabled": false,
+  "AntiCheatDisabled": true,
   "CmdrEnabled": true,
   "DaylightCycleEnabled": true,
   "DaylightCycleStartTime": 0,
