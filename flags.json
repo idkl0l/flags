@@ -1,7 +1,7 @@
 {
   "AntiCheatDisabled": false,
   "CmdrEnabled": true,
-  "DefaultCmdrActivationKey": "F2",
   "DaylightCycleEnabled": true,
-  "DaylightCycleStartTime": 0
+  "DaylightCycleStartTime": 0,
+  "DefaultCmdrActivationKey": "F2"
 }
