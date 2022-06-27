@@ -1,4 +1,4 @@
 {
-  "DefaultCmdrActivationKey": "F2",
-  "CmdrEnabled": true
+  "CmdrEnabled": true,
+  "DefaultCmdrActivationKey": "F2"
 }
