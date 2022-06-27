@@ -1,6 +1,6 @@
 {
   "CmdrEnabled": true,
-  "DefaultCmdrActivationKey": "F2"
+  "DefaultCmdrActivationKey": "F2",
   "DaylightCycleEnabled": true,
   "DaylightCycleStartTime": 0
 }
