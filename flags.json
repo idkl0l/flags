@@ -3,5 +3,6 @@
   "CmdrEnabled": true,
   "DaylightCycleEnabled": true,
   "DaylightCycleStartTime": 0,
-  "DefaultCmdrActivationKey": "F2"
+  "DefaultCmdrActivationKey": "F2",
+  "MaximumLevel": 30
 }
