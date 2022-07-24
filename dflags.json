@@ -1,3 +1,4 @@
 {
-  "DaylightCycleLength": 300
+  "DaylightCycleLength": 300,
+  "UseRealProfilesInStudio": false
 }
